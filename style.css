@@ -1,0 +1,10 @@
+.container {
+    width: 800px;
+  }
+  .container img {
+    width: 100%;
+  }
+
+  body{
+      background-color: rgb(212, 212, 212);
+  }
